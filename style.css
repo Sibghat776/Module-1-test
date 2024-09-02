@@ -119,6 +119,39 @@ nav {
 .c-input textarea{
     height: 190px;
 }
-#salam{
-    padding: 5px;
+
+/* Last section */
+footer{
+    padding: 0px 100px 0px 100px !important;
+}
+.last-section{
+    background-color: #191a23 !important;
+    height: 514px !important;
+    border-radius: 45px 45px 0px 0px !important;
+    padding: 60px 50px 50px 60px;
+    font-family: 'Space Grotesk';
+}
+.f-upper{
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.f-logo{
+    display: flex;
+    align-items: baseline;
+    gap: 5px;
+}
+.f-logo img{
+    align-items: baseline;
+}
+.f-upper ul{
+    list-style : none;
+    color: #f3f3f3;
+    display: flex !important;
+    align-items: baseline !important;
+    justify-content: center;
+    gap: 20px;
+    text-decoration: underline;
+    margin-top: 20px;
 }
