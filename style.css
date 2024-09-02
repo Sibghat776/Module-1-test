@@ -76,3 +76,49 @@ nav {
     border-radius: 25px !important;
     box-shadow: 2px 2px 2px 2px;
 }
+.slider-1{
+    margin: auto;
+    width: 100%;
+    height: 280px;
+    background-color: #b9ff66;
+    padding:20px 90px 20px 90px !important;
+    border-radius: 25px;
+    box-shadow: 2px 5px 2px -1px;
+}
+.s1-para{
+    padding:40px 35px 50px 35px !important;
+    font-weight: bold;
+}
+.slider{
+    margin: auto;
+    /* width: 100%; */
+    height: 160px;
+    background-color: #f3f3f3;
+    padding:20px 90px 20px 90px !important;
+    border-radius: 25px;
+    box-shadow: 2px 5px 2px -1px;
+    margin: 20px 0px 20px 0px ;
+}
+.for-contact{
+    padding: 60px 100px 80px 100px;
+    background-color: #f3f3f3;
+    height: 773px;
+}
+.c-input input, textarea {
+    padding: 18px 30px 18px 30px;
+    width: 100%;
+    margin: 0px 5px 20px 0px;
+    border-radius: 15px;
+    border: 1px solid #191a23;
+}
+.c-input{
+    width: 556px;
+    height: 457px;
+    margin-top: 40px;
+}
+.c-input textarea{
+    height: 190px;
+}
+#salam{
+    padding: 5px;
+}
