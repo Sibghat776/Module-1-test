@@ -1,0 +1,173 @@
+@media (min-width: 370px) and (max-width: 700px) {
+    body {
+        display: block;
+        overflow-x: hidden;
+    }
+
+    .navbar {
+        width: 100%;
+    }
+
+    .second-container {
+        width: 100%;
+    }
+
+    .second-container {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .s-cont-2 .s-part-img img {
+        display: block;
+        height: 100%;
+        width: 80vw;
+        margin-top: 30px;
+    }
+
+    .three-logos {
+        width: 100vw;
+    }
+
+    .four-services {
+        width: 80vw;
+        flex-direction: column;
+        padding: 0px;
+        margin-left: -70px;
+        text-align: center;
+    }
+
+    .four-services button {
+        text-align: center;
+        margin-right: -150px;
+        width: 100vw;
+    }
+
+    .four-services p {
+        width: 80vw;
+        flex-direction: column;
+    }
+
+    .f-ser-main {
+        display: block;
+        width: 100vw;
+    }
+
+    .one {
+        z-index: -500;
+        flex-direction: row;
+        padding-left: 20px;
+        width: 0.1px;
+    }
+
+    .one img {
+        height: 1px;
+        width: 1px;
+    }
+
+    .five-cards .two {
+        width: 100vw;
+        margin-left: -120px;
+        z-index: 10;
+    }
+
+    .two img {
+        margin-left: -130px;
+        width: 40vw;
+    }
+
+    .learnmore img {
+        margin-right: 1000px;
+        width: 30vw;
+    }
+
+    .arrow-five img {
+        margin-left: -55px;
+    }
+
+    .six-process {
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        text-align: center;
+    }
+    .six {
+        height: 30vh;
+        margin-bottom: 30px;
+    }
+    .seven-accordions{
+        padding: 0;
+        margin: 0;
+        margin-top: 30px;
+    }
+    .slider{
+        width: 90vw;
+    }
+    .slider-1 {
+        width: 90vw;
+        overflow-y: hidden;
+        width: 90vw;
+    }
+    .s1-head , .s1-para{
+        height: 50%;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .eight-contact{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        width: 80vw;
+        margin-left: auto;
+    }
+    .nine-form{
+        width: 100vw;
+        border-top-left-radius: 45px;
+        border-top-right-radius: 45px;
+    }
+    .form-img img{
+        z-index: -50;
+    }
+    .for-input form {
+        width: 70vw;
+        padding: 0px 50px 0px 0px;
+        margin: 0px 50px 0px 0px;
+        position: absolute;
+        right: -70px;
+    }
+    .ten-footer{
+        width: 90vw;
+        display: flex;
+        flex-direction: column;
+        margin: 0px;
+        margin-left: -80px;
+    }
+    footer{
+        padding: 0px;
+        margin: 0px;
+        position: absolute;
+        height: 945px;
+    }
+    .f-upper ul{
+        display: flex;
+        flex-direction: column;
+    }
+    .f-upper{
+        display: flex;
+        flex-direction: column;
+    }
+    .f-middle{
+        flex-direction: column;
+        position: absolute;
+        bottom: 50px;
+        margin-left: -60px;
+        background-color: #191a23;
+        width: 90vw;
+        align-items: center;
+    }
+    .f-last{
+        flex-direction: row;
+        position: absolute;
+        bottom: 20px;
+    }
+}
